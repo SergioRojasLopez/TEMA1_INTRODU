@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PROGRAMACION_23-24.iml" filepath="$PROJECT_DIR$/PROGRAMACION_23-24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEORIA/TEORIA.iml" filepath="$PROJECT_DIR$/TEORIA/TEORIA.iml" />
+    </modules>
+  </component>
+</project>
