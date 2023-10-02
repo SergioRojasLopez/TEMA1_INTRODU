@@ -2,7 +2,7 @@ package BOLETIN_1_1;
 
 import java.util.Scanner;
 
-public class Ej2 {
+public class Ej2_Num {
     public static void main(String[] args) {
         int num;
         Scanner sc = new Scanner(System.in);
