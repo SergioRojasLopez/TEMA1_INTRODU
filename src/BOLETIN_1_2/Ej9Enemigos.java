@@ -1,3 +1,5 @@
+package BOLETIN_1_2;
+
 import java.util.Scanner;
 
 
