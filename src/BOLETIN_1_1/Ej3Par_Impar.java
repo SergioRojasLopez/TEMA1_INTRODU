@@ -14,9 +14,9 @@ public class Ej3Par_Impar {
             System.out.println("Cuantos numeros vas a usar?");
             cantidadNum = sc.nextInt();
 
-            if (cantidadNum <= 0);
-            System.out.println("La cantidad de numeros tiene que ser > que 0");
-
+            if (cantidadNum <= 0) {
+                System.out.println("La cantidad de numeros tiene que ser > que 0");
+            }
         } while (cantidadNum <= 0);
 
         for (int i = 1; i <= cantidadNum; i++) {

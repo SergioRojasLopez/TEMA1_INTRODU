@@ -10,18 +10,19 @@ public class Ej4_SumaNumeroTotal {
         do {
             System.out.println("Introduce un numero positivo");
             num = sc.nextInt();
-            if (num > 0){
+            if (num < 0){
                 System.out.println("El numero tiene que ser positivo");
             }
         } while (num < 0);
 
         int suma = 0;
 
-        for (int i = 1; i <= num; i++){
+        for (int i = 0; i <= num; i++){
 
-            suma += num; //REPASAR//
-            System.out.println("la suma de los " + num + " numeros es " + suma);
+            suma += i; //REPASAR//
 
         }
+        sc.close();
+        System.out.println("la suma de los " + num + " numeros es " + suma);
     }
 }

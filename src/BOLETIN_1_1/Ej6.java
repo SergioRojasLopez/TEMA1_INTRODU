@@ -19,6 +19,14 @@ public class Ej6 {
 
         } while (num1 < 0 || num2 < 0);
 
+        int resultado = 0;
+        for (int i =0; i < num2;i++){
+            resultado  += num1;
+
+        }
+        System.out.println("El producto es " + resultado);
+        sc.close();
+
 
     }
 }
