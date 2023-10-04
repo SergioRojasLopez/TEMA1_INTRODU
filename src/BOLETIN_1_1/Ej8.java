@@ -15,7 +15,7 @@ public class Ej8 {
             if (num < menor){
                 menor = num;
             }
-            System.out.println("Quieres introducir mas numeros (s/n)");
+            System.out.println("Quieres introducir mas numeros? (s/n)");
 
             String respuesta = sc.next();
             if (!respuesta.equalsIgnoreCase("s") ){
@@ -25,10 +25,6 @@ public class Ej8 {
 
         } while (true);
 
-        if (menor == Double.MAX_VALUE){
-            System.out.println("No has introducido numero");
-        } else {
             System.out.println("el numero menor es " + menor);
-        }
     }
 }
