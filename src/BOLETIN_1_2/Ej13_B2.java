@@ -2,7 +2,7 @@ package BOLETIN_1_2;
 
 import java.util.Scanner;
 
-public class Ej13ComidaRapida {
+public class Ej13_B2 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Cual es tu comida favorita entre estas opciones");

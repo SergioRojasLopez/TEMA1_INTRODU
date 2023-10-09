@@ -2,7 +2,7 @@ package BOLETIN_1_2;
 
 import java.util.Scanner;
 
-public class Ej6 {
+public class Ej6_B2 {
 
     public static void main(String[] args) {
 

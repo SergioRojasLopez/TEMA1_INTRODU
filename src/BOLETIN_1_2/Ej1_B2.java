@@ -1,6 +1,6 @@
 package BOLETIN_1_2;
 
-public class Ej1 {
+public class Ej1_B2 {
 
     public static void main(String[] args) {
 

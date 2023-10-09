@@ -3,7 +3,7 @@ package BOLETIN_1_2;
 import java.util.Scanner;
 
 
-public class Ej9Enemigos {
+public class Ej9_B2 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Cuantos enemigos has derrotado");

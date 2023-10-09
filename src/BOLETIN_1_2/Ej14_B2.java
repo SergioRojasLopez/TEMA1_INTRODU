@@ -2,7 +2,7 @@ package BOLETIN_1_2;
 
 import java.util.Scanner;
 
-public class Ej14Calculadora {
+public class Ej14_B2 {
     public static void main(String[] args) {
         int resultado = 0;
         Scanner teclado = new Scanner(System.in);
