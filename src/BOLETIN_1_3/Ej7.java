@@ -19,7 +19,7 @@ public class Ej7 {
                 }
             } while (!estadoCivil.equalsIgnoreCase("s") && !estadoCivil.equalsIgnoreCase("d") && !estadoCivil.equalsIgnoreCase("v") && !estadoCivil.equalsIgnoreCase("c"));
 
-            System.out.println("Introduce tu edad");
+            System.out.println("Introduce tu edad:");
             edad = sc.nextInt();
 
             double retencion = 0.0;

@@ -8,13 +8,13 @@ public class Ej8 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Introduce las horas");
+        System.out.println("Introduce las horas:");
         int horas1 = sc.nextInt();
 
-        System.out.println("Introduce los minutos");
+        System.out.println("Introduce los minutos:");
         int minutos1 = sc.nextInt();
 
-        System.out.println("Introduce los segundos");
+        System.out.println("Introduce los segundos:");
         int segundos1 = sc.nextInt();
 
         if (horas1 > 24 || horas1 < 0 || minutos1 > 24 || minutos1 < 0 || segundos1 > 60 || segundos1 < 0 ){
@@ -23,7 +23,7 @@ public class Ej8 {
             return;
         }
 
-        System.out.println("Ahora vamos con la segunda marcacion");
+        System.out.println("Ahora vamos con la segunda marcacion de reloj");
 
         System.out.println("Introduce las horas");
         int horas2 = sc.nextInt();

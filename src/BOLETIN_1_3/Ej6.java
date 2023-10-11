@@ -12,7 +12,7 @@ public class Ej6 {
 
 
         do {
-            System.out.println("Ingresa una vocal");
+            System.out.println("Ingresa una vocal:");
 
             vocal = sc.next();
 
