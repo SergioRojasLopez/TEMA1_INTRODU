@@ -1,3 +1,5 @@
+package BUCLES;
+
 import java.util.Scanner;
 
 public class BucleWhile {

@@ -1,3 +1,5 @@
+package MATES;
+
 import java.util.Scanner;
 
 public class NumPrimos {

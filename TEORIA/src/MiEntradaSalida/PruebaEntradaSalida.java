@@ -1,3 +1,5 @@
+package MiEntradaSalida;
+
 public class PruebaEntradaSalida {
 
     public static void main(String[] args) {

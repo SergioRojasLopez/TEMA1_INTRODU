@@ -1,3 +1,5 @@
+package MiEntradaSalida;
+
 import java.util.Scanner;
 
 public class MiEntradaSalida {

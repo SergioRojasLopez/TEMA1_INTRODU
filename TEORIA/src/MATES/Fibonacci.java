@@ -1,3 +1,5 @@
+package MATES;
+
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -5,7 +7,7 @@ public class Fibonacci {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Hasta que numero quieres hacer la sucesion de Fibonacci");
+        System.out.println("Hasta que numero quieres hacer la sucesion de MATES.Fibonacci");
         int nivel = sc.nextInt();
         int suma = 0;
 
