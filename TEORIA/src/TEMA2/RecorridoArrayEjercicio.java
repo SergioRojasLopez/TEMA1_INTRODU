@@ -12,6 +12,8 @@ public class RecorridoArrayEjercicio {
         for (int i = 0; i < miArray2.length; i++) {
             miArray[miArray.length - 1 - i] = miArray2[i];
         }
+
+        //elem en la primera iteración es como miArray[0].
         for (int elem : miArray) {
 
             System.out.println(elem);

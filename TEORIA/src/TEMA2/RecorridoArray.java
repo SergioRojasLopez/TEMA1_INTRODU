@@ -7,7 +7,8 @@ public class RecorridoArray {
         int[] miArray = new int[5];
         int[] miArray2 = {1,2,3,4,5};
 
-        //Este metodo sirve para recorrer el array desde el final hasta el principio.
+        //Este método sirve para recorrer el array desde el final hasta el principio.
+        //
         for (int i = miArray2.length - 1; i >= 0; i--){
 
             System.out.println(miArray2[i]);
